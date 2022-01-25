@@ -4,6 +4,8 @@ Ce site rassemble quelques documents sur des méthodes de feedback. Il s'agit d'
 
 Il s'agit d'une adaptation du support de Karim Benammar, philosophe et co-concepteur des formats de feedback, [mis à disposition sur son site](https://philosophy.teachable.com/p/learning-from-feedback ).
 
+### Les formats
+
 Sur son site web dédié à la méthode, K. Benammar décrit huit “Feedback formats”:
 
 1. The Presenter's Question
