@@ -4,8 +4,6 @@ title: Structurer une session
 permalink: structure.html
 ---
 
-# Structurer une session
-
 K. Benammar, dans son cours en ligne, explique qu'on peut combiner les formats, selon les besoins, le temps à disposition, le nombre de personnes. Il donne deux exemples, pour une session de 60 minutes, et une session de 90 minutes.
 
 ## Un set-up de 60 minutes:
