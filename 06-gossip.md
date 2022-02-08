@@ -4,7 +4,7 @@ title: Gossip
 permalink: gossip.html
 ---
 
-# Format:Gossip
+# Format: Gossip
 
 Observations formulées à la troisième personne.
 
