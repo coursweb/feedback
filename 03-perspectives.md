@@ -16,6 +16,6 @@ Selon K. Bennamar :
 
 En vidéo:
 
-<video width="100%" height="auto" controls>
+<video width="100%" height="auto" controls controlsList="nodownload">
   <source src="video/perspectives-feedback.mp4" type="video/mp4">
 </video>
