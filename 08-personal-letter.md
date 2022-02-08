@@ -14,6 +14,6 @@ Selon K. Bennamar :
 
 En vidéo:
 
-<video width="100%" height="auto" controls poster="video/gossip.jpg">
+<video width="100%" height="auto" controls poster="video/personal-letter.jpg">
   <source src="video/personal-letter.mp4" type="video/mp4">
 </video>

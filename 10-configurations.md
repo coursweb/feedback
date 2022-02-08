@@ -4,8 +4,6 @@ title: Configurations en classe
 permalink: configurations.html
 ---
 
-# Configurations en classe
-
 Quelques configurations possibles, pour un groupe de 16 élèves.  
 Durée: une période d'enseignement de 45 minutes.
 
