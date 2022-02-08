@@ -11,3 +11,9 @@ permalink: affirmative-feedback.html
 Selon K. Benammar :
 
 > Feedback is usually associated with criticism, but we also want to learn from what works. This is different from giving a compliment. The aim is to communicate what worked for us. Start your Affirmative Feedback with “What worked for me is x”.
+
+En vidéo:
+
+<video width="100%" height="auto" controls>
+  <source src="video/affirmative-feedback.mp4" type="video/mp4">
+</video>

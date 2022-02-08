@@ -14,3 +14,8 @@ Selon K. Bennamar :
 
 > What perspective are you asking your question from? Are you reacting as an audience member, as a peer, as a friend, as a journalist, as a fellow German? Make clear what your most important need is from this perspective. Start your Perspectives Feedback with “As x, I need y”.
 
+En vidéo:
+
+<video width="100%" height="auto" controls>
+  <source src="video/perspectives-feedback.mp4" type="video/mp4">
+</video>
