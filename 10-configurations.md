@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Configurations
+title: Configurations en classe
 permalink: configurations.html
 ---
 
