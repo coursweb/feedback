@@ -21,3 +21,4 @@ Site web de Karim Benammar, philosophe et co-concepteur des formats de feedback 
 Site web de Suzana Richle (sa thèse Master Art Education à la ZHdK): 
 *Kollektives Feedback als erweiterter Mentoratsprozess* – [http://mt.suzanarichle.ch/](http://mt.suzanarichle.ch/) - elle y effectue une comparaison des méthodes de DasArts, et celles de Liz Lerman.
 
+![Site de Suzana Richle](img/site-suzanarichle.jpg)
