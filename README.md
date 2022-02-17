@@ -1,8 +1,8 @@
 # Méthodes de Feedback
 
-Ce site rassemble quelques documents sur des méthodes de feedback. Il s'agit d'un ensemble de "formats" développés au sein de DasArts (DAS Master of Theatre programme of the Amsterdam University of Arts).
+Ce site rassemble quelques documents sur des méthodes de feedback. Il s'agit d'un ensemble de "formats" développés au sein de DasArts (DAS Master of Theatre programme of the Amsterdam University of Arts) entre 2009 et 2011.
 
-Il s'agit d'une adaptation du support de Karim Benammar, philosophe et co-concepteur des formats de feedback, [mis à disposition sur son site](https://philosophy.teachable.com/p/learning-from-feedback ).
+Ces pages sont une adaptation du support de Karim Benammar, philosophe et co-concepteur des formats de feedback, [mis à disposition sur son site](https://philosophy.teachable.com/p/learning-from-feedback) (sous licence CC-BY).
 
 ### Les formats
 
@@ -16,6 +16,8 @@ Sur son site web dédié à la méthode, K. Benammar décrit huit “Feedback fo
 6. Gossip
 7. Tips and tricks
 8. Personal letter (phase de conclusion: pendant 5 minutes, chacun écrit une lettre personnelle à la présentatrice)
+
+## Les principes
 
 K. Benammar écrit: 
 
