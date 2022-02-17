@@ -6,7 +6,7 @@ permalink: gossip.html
 
 # Format: Gossip
 
-Observations formulées à la troisième personne.
+Observations formulées à la troisième personne. On discute le problème, comme si la personne était absente, à la 3e personne (elle reste dans la pièce et écoute).
 
 Selon K. Bennamar :
 
