@@ -17,3 +17,11 @@ En vidéo:
 <video width="100%" height="auto" controls controlsList="nodownload" poster="video/gossip.jpg">
   <source src="video/gossip.mp4" type="video/mp4">
 </video>
+
+----
+
+## Variante: utilisation en école
+
+Ce format peut être utilisé de manière ciblée durant un projet en école, “quand des élèves sont coincés”. Par exemple durant un travail personnel (TPI, TPA, travail de diplôme), pour des personnes bloquées dans leur projet. 
+
+On forme alors un petit groupe, 4-5 personnes pour 1 élève, et on fait une session “Gossip”.
