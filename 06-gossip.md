@@ -6,11 +6,20 @@ permalink: gossip.html
 
 # Format: Gossip
 
-Observations formulées à la troisième personne. On discute le problème, comme si la personne était absente, à la 3e personne (elle reste dans la pièce et écoute).
+Observations formulées à la troisième personne. On discute le problème, le travail, comme si la personne était absente, à la 3e personne (elle reste dans la pièce et écoute, dos tourné).
 
 Selon K. Bennamar :
 
 > Gossip is a group discussion; everyone can speak freely, as if the presenter was not there, in the third person. The presenter listens attentively without reacting. A gossip session allows views to be aired for which there is no space in the more regulated forms of feedback.
+
+## Dispositif :
+
+- On parle à la 3e personne.
+- La personne faisant l'object du feedback est assise et *tourne le dos* au groupe. Il n'y a pas de contact visuel. La personne prend des notes.
+
+Le résultat de cette situation artificielle est que le feedback est moins personnel: pas de contact direct, pas de nécessité de répondre.
+
+Il ne faut pas oublier qu'on essaie de donner un feedback utile. On ne juge pas, on essaie d'aider la personne, sans méchanceté et sans flatterie.
 
 En vidéo:
 

@@ -14,6 +14,8 @@ Selon K. Bennamar :
 
 > What perspective are you asking your question from? Are you reacting as an audience member, as a peer, as a friend, as a journalist, as a fellow German? Make clear what your most important need is from this perspective. Start your Perspectives Feedback with *“As x, I need y”*.
 
+On peut même adopter une position imaginaire. "en tant qu'extra-terrestre", "en tant que chien" – cela peut paraître bizarre, mais ça fonctionne, cela amène un élément disruptif. Aussi longtemps que ce feedback exprime un besoin que vous ressentez, cela fonctionnera.
+
 En vidéo:
 
 <video width="100%" height="auto" controls controlsList="nodownload">
