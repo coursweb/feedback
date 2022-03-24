@@ -25,7 +25,6 @@ K. Benammar écrit:
 
 Sur son site web dédié à la méthode, K. Benammar décrit huit “Feedback formats”:
 
-|  | Nom du format | Durée approx. |
 |:------------------- |:---- | |:---- |
 | 1. | The Presenter's Question  | |
 | 2. | Affirmative feedback  | |
