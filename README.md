@@ -25,12 +25,14 @@ K. Benammar écrit:
 
 Sur son site web dédié à la méthode, K. Benammar décrit huit “Feedback formats”:
 
-1. The Presenter's Question
-2. Affirmative feedback
-3. Perspectives feedback - 10 minutes
-4. Open Questions - 10 à 20 minutes
-5. Concept Reflection - 10 à 20 minutes
-6. Gossip - 10 minutes
-7. Tips and tricks
-8. Personal letter (phase de conclusion: pendant 5 minutes, chacun écrit une lettre personnelle à la présentatrice)
+|  | Nom du format | Durée approx. |
+|:------------------- |:---- | |:---- |
+| 1. | The Presenter's Question  | |
+| 2. | Affirmative feedback  | |
+| 3. | [Perspectives feedback](perspectives-feedback.html)  | 10 minutes |
+| 4. | Open Questions  | 10 à 20 minutes |
+| 5. | Concept Reflection  | 10 à 20 minutes |
+| 6. | [Gossip](gossip.html) | 10 minutes |
+| 7. | Tips and tricks  | |
+| 8. | [Personal letter](personal-letter.html) | 5 minutes |
 
