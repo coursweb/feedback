@@ -18,6 +18,4 @@ On peut même adopter une position imaginaire. "en tant qu'extra-terrestre", "en
 
 ## En vidéo:
 
-<video width="100%" height="auto" controls controlsList="nodownload">
-  <source src="video/perspectives-feedback.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dCqPsmd5beg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
