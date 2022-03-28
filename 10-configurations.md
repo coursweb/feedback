@@ -35,10 +35,28 @@ Exemple de séquence de 20 minutes:
 
 | Durée  | Format               |
 |:------ |:-------------------- |
+|  5 min | Présentation |
+|  5 min | Affirmative feedback |
+|  5 min | Perspectives |
+|  5 min | Personal letter         |
+
+Autre exemple (approche de questionnement):
+
+| Durée  | Format               |
+|:------ |:-------------------- |
+|  5 min | Présentation |
+|  5 min | Perspectives |
+|  5 min | Questions ouvertes |
+|  5 min | Gossip         |
+
+Autre exemple (approche de soutien):
+
+| Durée  | Format               |
+|:------ |:-------------------- |
 |  5 min | Présentation         |
-|  5 min | Open Questions       |
-|  5 min | Perspectives         |
-|  5 min | Gossip               |
+|  5 min | Affirmative feedback |
+|  5 min | Tips and tricks      |
+|  5 min | Personal letter      |
 
 ## Séance pour 8 élèves qui présentent
 
