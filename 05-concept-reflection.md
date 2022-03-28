@@ -51,6 +51,10 @@ Exemples :
 
 > In order to open the reflective space of the person whose work you are questioning, come up with a concept to start their thinking process. This concept should start a series of associations that help the presenter think about their work in a way that is productive for them. The concept could be a single word or a short expression. Examples: *“How does your work relate to **time**?”* *“What role does **home** play in your piece?”* *“What is **explicit** in your work?”*
 
+## En vidéo
+
+<iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube-nocookie.com/embed/wkYt8cibkII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
 ## Variante: Utilisation pour démarrage d'un travail de groupe
