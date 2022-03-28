@@ -8,16 +8,15 @@ permalink: audience-pair-venting.html
 
 **Durée:** 5 à 10 minutes.
 
-Après la présentation de l'œuvre, on laisse un moment de transition, de quelques minutes, pendant lesquelles la personne qui présente sort de la salle. Elle peut éventuellement prendre un café, respirer un peu d'air frais, avant la séance de feedback.
+Après la présentation de l'œuvre, on laisse un moment de transition, de quelques minutes, pendant lesquelles la personne qui présente sort de la salle. Elle peut aller prendre un café, respirer de l'air frais, avant la séance de feedback.
 
-Les membres de l'audience sont invités à échanger leurs premières impressions, par binômes. Il s'agit d'évacuer les réactions émotionnelles.
+Pendant ce temps, les membres de l'audience sont invités à échanger librement leurs premières impressions, par groupe de deux. Cette phase permet d'évacuer les émotions immédiates, les réactions à vif. Il est permis de dire "je n'ai rien compris", ou "j'ai adoré". Ces réactions ne constituent pas du feedback utile, mais ça fait du bien de les "sortir".
 
 Selon K. Bennamar:
 
-> Les personnes qui viennent d'observer sortent leurs émotions immédiates. Ils peuvent dire "je n'ai rien compris", ou "j'ai adoré". Ils peuvent sortir leurs émotions, qui ne sont pas du feedback. Ça fait du bien de les sortir. Et après cela, on peut commencer à réfléchir au feedback.
+> Ce moment est crucial. Ne l'oubliez pas. Cela va influencer la suite de la session.
 
-> Ce moment est crucial. Ne l'oubliez pas. Il va influencer la suite de la session.
-
+Après cette "ventilation des émotions", les participants sont prêts pour passer à une formulation structurée, plus réfléchie.
 
 ## En vidéo:
 
