@@ -23,10 +23,7 @@ Il ne faut pas oublier qu'on essaie de donner un feedback *utile*. On ne juge pa
 
 ## En vidéo:
 
-<video width="100%" height="auto" controls controlsList="nodownload" poster="video/gossip.jpg">
-  <source src="video/gossip.mp4" type="video/mp4">
-</video>
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DkBMXdn3WE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ----
 
 ## Variante: utilisation en école

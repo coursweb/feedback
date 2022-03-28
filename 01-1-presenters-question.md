@@ -4,22 +4,23 @@ title: The Presenters Question
 permalink: presenters-question.html
 ---
 
-Selon K. Bennamar: **The Presenter’s Question** is an invitation for feedback. 
-
-- What are we going to experience in your presentation? 
-- Is it a finished piece, a work-in-progress, or just an idea? 
-- What part of the work will we look at? 
-- What are the questions you have at the moment? 
-- What would you like to get feedback on?
-
-### En résumé: 
-
-La personne qui présente son travail donne le contexte, et clarifie sur quoi va porter le feedback.
-
 **Durée:** pas plus de 3 minutes.
 
-En vidéo:
+Au tout début de la séance de feedback, la personne qui présente son travail prend la parole. 
 
-<video width="100%" height="auto" controls controlsList="nodownload" >
-  <source src="video/presenters-question.mp4" type="video/mp4">
-</video>
+En 3 minutes maximum, il s'agit de :
+
+Donner le contexte:
+
+- Quelle expérience allons-nous vivre pendant votre présentation? 
+- Est-ce un projet terminé, en cours, ou une simple idée? 
+- Quelle partie du projet allons-nous regarder ou recevoir? 
+
+Préciser sur quoi le feedback devra porter, pour être aussi utile que possible:
+
+- Quelles sont les questions qui vous travaillent à ce stade? 
+- Sur quoi aimeriez-vous obtenir un feedback? 
+
+## En vidéo:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eid5KX5vDPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

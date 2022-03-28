@@ -37,6 +37,4 @@ Deux équipes de sport reçoivent un coaching pendant une soirée. L'une reçoit
 
 ## En vidéo:
 
-<video width="100%" height="auto" controls controlsList="nodownload">
-  <source src="video/affirmative-feedback.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RtJ-lAeKFGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

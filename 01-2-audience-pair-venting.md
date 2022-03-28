@@ -4,21 +4,21 @@ title: Audience Pair Venting
 permalink: audience-pair-venting.html
 ---
 
-Après la présentation de l'œuvre, on laisse un moment de quelques minutes où la personne qui présente fait une pause. Elle sort de la salle, peut éventuellement prendre un café.
-
-Les membres de l'audience, par binômes, sont invités à échanger leurs premières impressions.
-
-Selon K. Bennamar:
-
-> Les personnes qui viennent d'observer sortent leurs émotions immédiates.
-Ils peuvent dire "je n'ai rien compris", ou "j'ai adoré". Ils peuvent sortir leurs émotions, qui ne sont pas du feedback. Ça fait du bien de les sortir. Et après cela, on peut commencer à réfléchir au feedback.
-
-> Ce moment est crucial. Ne l'oubliez pas. Il va influencer la suite de la session.
+# Audience Pair Venting / One on One
 
 **Durée:** 5 à 10 minutes.
 
-En vidéo:
+Après la présentation de l'œuvre, on laisse un moment de transition, de quelques minutes, pendant lesquelles la personne qui présente sort de la salle. Elle peut éventuellement prendre un café, respirer un peu d'air frais, avant la séance de feedback.
 
-<video width="100%" height="auto" controls controlsList="nodownload" >
-  <source src="video/one-on-one.mp4" type="video/mp4">
-</video>
+Les membres de l'audience sont invités à échanger leurs premières impressions, par binômes. Il s'agit d'évacuer les réactions émotionnelles.
+
+Selon K. Bennamar:
+
+> Les personnes qui viennent d'observer sortent leurs émotions immédiates. Ils peuvent dire "je n'ai rien compris", ou "j'ai adoré". Ils peuvent sortir leurs émotions, qui ne sont pas du feedback. Ça fait du bien de les sortir. Et après cela, on peut commencer à réfléchir au feedback.
+
+> Ce moment est crucial. Ne l'oubliez pas. Il va influencer la suite de la session.
+
+
+## En vidéo:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EOrw02a6FT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
