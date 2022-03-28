@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Presenters's Question
+title: The Presenters Question
 permalink: presenters-question.html
 ---
 
