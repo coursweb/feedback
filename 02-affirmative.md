@@ -4,7 +4,7 @@ title: Affirmative Feedback
 permalink: affirmative-feedback.html
 ---
 
-# Format: Affirmative Feedback
+**Durée:** 10 minutes maximum.
 
 Dans ce format, on cherche à mettre en avant "ce qui a bien fonctionné".
 
@@ -35,9 +35,7 @@ Deux équipes de sport reçoivent un coaching pendant une soirée. L'une reçoit
 - Pas de "j'aime / j'aime pas".
 - "Ce qui fonctionne pour moi, c'est..."
 
-Durée: 10 minutes maximum.
-
-En vidéo:
+## En vidéo:
 
 <video width="100%" height="auto" controls controlsList="nodownload">
   <source src="video/affirmative-feedback.mp4" type="video/mp4">

@@ -4,7 +4,7 @@ title: Gossip
 permalink: gossip.html
 ---
 
-# Format: Gossip
+**Durée:** 10 minutes.
 
 Observations formulées à la troisième personne. On discute le problème, le travail, comme si la personne était absente, à la 3e personne (elle reste dans la pièce et écoute, dos tourné).
 
@@ -14,16 +14,14 @@ Selon K. Bennamar :
 
 ## Dispositif :
 
-- On parle à la 3e personne.
+- On parle de la personne qui a présenté à la troisième personne.
 - La personne faisant l'object du feedback est assise et *tourne le dos* au groupe. Il n'y a pas de contact visuel. La personne prend des notes.
 
 Le résultat de cette situation artificielle est que le feedback est moins personnel: pas de contact direct, pas de nécessité de répondre.
 
-Il ne faut pas oublier qu'on essaie de donner un feedback utile. On ne juge pas, on essaie d'aider la personne, sans méchanceté et sans flatterie.
+Il ne faut pas oublier qu'on essaie de donner un feedback *utile*. On ne juge pas, on essaie d'aider la personne, sans méchanceté et sans flatterie.
 
-**Durée:** 10 minutes.
-
-En vidéo:
+## En vidéo:
 
 <video width="100%" height="auto" controls controlsList="nodownload" poster="video/gossip.jpg">
   <source src="video/gossip.mp4" type="video/mp4">

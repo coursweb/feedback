@@ -4,11 +4,11 @@ title: Personal Letter
 permalink: personal-letter.html
 ---
 
-# Format: Personal Letter
+**Durée:** 5 minutes.
 
-Chaque participant-e écrit une lettre personnelle, dont le contenu n’est pas partagé avec le reste du groupe.
+Chaque participant-e écrit une lettre personnelle, à l'attention de la personne qui vient de présenter. Le contenu n’est pas partagé avec le reste du groupe.
 
-- On écrit la lettre en silence.
+- On écrit la lettre en silence. La lettre peut être longue, ou courte. 
 - A la fin de la session, on la plie, on la met dans une enveloppe, et on sort.
 
 Selon K. Bennamar :
@@ -17,15 +17,11 @@ Selon K. Bennamar :
 
 ## Points importants :
 
-C'est un feedback confidentiel, privé.
+- La lettre n'est pas anonyme, mais son contenu reste confidentiel, privé.
+- La personne lira les lettres "plus tard". Il y une disconnection temporelle, une distance. 
+- La lettre est supposée aider, de manière très personnelle.
 
-La personne lira les lettres "plus tard". Il y une disconnection temporelle, une distance. La lettre peut être longue, ou courte. 
-
-La lettre est supposée aider, de manière très personnelle.
-
-**Durée:** 5 minutes.
-
-En vidéo:
+## En vidéo:
 
 <video width="100%" height="auto" controls controlsList="nodownload" poster="video/personal-letter.jpg">
   <source src="video/personal-letter.mp4" type="video/mp4">
