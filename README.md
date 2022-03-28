@@ -4,7 +4,7 @@ Ce site rassemble quelques documents sur des **méthodes de feedback**. Il s'agi
 
 Ces pages sont une adaptation du support de Karim Benammar, philosophe et co-concepteur des formats de feedback, [mis à disposition sur son site](https://philosophy.teachable.com/p/learning-from-feedback) (sous licence *Creative Commons attribution*).
 
-La méthode a fait l'objet dun film documentaire, *A Film About Feedback* (2013).
+La méthode a fait l'objet dun film documentaire, *A Film About Feedback* (Jack Faber, 2013).
 
 ## Les principes
 
@@ -34,8 +34,8 @@ Sur son site web dédié à la méthode, K. Benammar décrit huit “Feedback fo
 | 2. | [Affirmative feedback](affirmative-feedback.html)  | |
 | 3. | [Perspectives feedback](perspectives-feedback.html)  | 10 minutes |
 | 4. | [Open Questions](open-questions.html)  | 10 à 20 minutes |
-| 5. | Concept Reflection  | 10 à 20 minutes |
+| 5. | [Concept Reflection](concept-reflection.html)  | 10 à 20 minutes |
 | 6. | [Gossip](gossip.html) | 10 minutes |
-| 7. | Tips and tricks  | |
+| 7. | [Tips and tricks](tips-and-tricks)  | |
 | 8. | [Personal letter](personal-letter.html) | 5 minutes |
 
