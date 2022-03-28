@@ -21,6 +21,8 @@ Le résultat de cette situation artificielle est que le feedback est moins perso
 
 Il ne faut pas oublier qu'on essaie de donner un feedback utile. On ne juge pas, on essaie d'aider la personne, sans méchanceté et sans flatterie.
 
+**Durée:** 10 minutes.
+
 En vidéo:
 
 <video width="100%" height="auto" controls controlsList="nodownload" poster="video/gossip.jpg">

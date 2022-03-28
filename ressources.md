@@ -6,7 +6,7 @@ permalink: ressources.html
 
 ### A Film About Feedback
 
-Film documentaire: *A Film About Feedback* (2013)
+Film documentaire: *A Film About Feedback* (Jack Faber, 2013)
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/97319636?h=306604fd08&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <p><a href="https://vimeo.com/97319636">A Film About Feedback</a> from <a href="https://vimeo.com/dasgraduateschool">DAS Graduate School</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

@@ -16,6 +16,8 @@ Selon K. Bennamar :
 
 On peut même adopter une position imaginaire. "en tant qu'extra-terrestre", "en tant que chien" – cela peut paraître bizarre, mais ça fonctionne, cela amène un élément disruptif. Aussi longtemps que ce feedback exprime un besoin que vous ressentez, cela fonctionnera.
 
+**Durée:** 10 minutes.
+
 En vidéo:
 
 <video width="100%" height="auto" controls controlsList="nodownload">

@@ -8,6 +8,15 @@ K. Benammar, dans son cours en ligne, explique qu'on peut combiner les formats, 
 
 Les durées sont estimées pour des groupes de 10, 15 ou 20 personnes. Avec moins de participant-es, la durée sera moindre.
 
+Dans la pratique de K. Bennammar ([Session Planning](https://philosophy.usefedora.com/courses/84363/lectures/1223610)), les formats indispensables qui structurent une session sont: 
+
+- **Affirmative feedback** (10 min max)
+- **Perspectives feedback** (10 min)
+- La suite est modulable: (Gossip, Tips & tricks, Open Questions, Concept Reflection...)
+- **Personnel letter** (5 min)
+
+Les formats "Concept Reflection" ou "Open Questions" remplissent une fonction similaire: on utilise l'un ou l'autre. Les "Open Questions" prennent moins de temps. "Concept Reflection" prend 20 minutes.
+
 ## Un set-up de 60 minutes:
 
 | Durée  | Format               |

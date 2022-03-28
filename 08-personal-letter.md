@@ -15,13 +15,15 @@ Selon K. Bennamar :
 
 > It is very useful to conclude a feedback session with a Personal Letter to the presenter. Everyone takes five minutes to write down a personal message. This can include things that were not mentioned in the session or personal anecdotes. It also serves as a personal reflection for the people giving feedback, and concludes the session in silence.
 
-Points intéressants :
+## Points importants :
 
 C'est un feedback confidentiel, privé.
 
 La personne lira les lettres "plus tard". Il y une disconnection temporelle, une distance. La lettre peut être longue, ou courte. 
 
 La lettre est supposée aider, de manière très personnelle.
+
+**Durée:** 5 minutes.
 
 En vidéo:
 
