@@ -24,6 +24,4 @@ Ce moment sert également de réflexion pour les personnes qui donnent leur av
 
 ## En vidéo:
 
-<video width="100%" height="auto" controls controlsList="nodownload" poster="video/personal-letter.jpg">
-  <source src="video/personal-letter.mp4" type="video/mp4">
-</video>
+<iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube-nocookie.com/embed/phVGEZBvQjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
