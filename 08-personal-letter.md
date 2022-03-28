@@ -18,8 +18,8 @@ Ce moment sert également de réflexion pour les personnes qui donnent leur av
 
 ## Points importants :
 
-- La lettre n'est pas anonyme, mais son contenu reste confidentiel, privé.
-- La personne lira les lettres "plus tard". Il y une disconnection temporelle, une distance, qui est positive. 
+- La lettre ne doit pas être anonyme, mais son contenu reste confidentiel.
+- La personne lira les lettres "plus tard". Il y une disconnection temporelle, une distance, qui est positive.
 - La lettre est supposée aider, de manière très personnelle.
 
 ## En vidéo:

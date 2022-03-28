@@ -6,17 +6,19 @@ Ces pages sont une adaptation du support de Karim Benammar, philosophe et co-con
 
 La méthode a fait l'objet dun film documentaire, *A Film About Feedback* (Jack Faber, 2013).
 
+Ce site comporte quelques variantes de formats proposées par [David Gagnebin-de Bons](https://davidg.ch/).
+
 ## Les principes
 
-L'essentiel de cette méthode:
+Les objectifs visés par cette méthode:
 
 - On évite que le feedback soit personnel.
 - On n'exige pas de réponse et justification immédiate. Il ne s'agit pas de "défendre son travail".
-- Le feedback est un service à la personne qui présente.
+- Le feedback est un service offert à la personne qui présente.
 - Plus de structure et d'auto-discipline.
 - Plus de précision et plus de *fun*.
 
-Selon Siegmar Zacharias (citée dans le film), la critique est une "structure de pouvoir" où celui qui exerce la critique domine celui qui la reçoit. Les méthodes de feedback visent à contre-balancer cette hiérarchie: il s'agit d'un *service* à la personne qui a fait le travail. C'est à elle de prendre le pouvoir, en formulant la question initiale.
+Selon Siegmar Zacharias (citée dans le film), la critique est une "structure de pouvoir", où celui qui exerce la critique domine celui qui la reçoit. Les méthodes de feedback visent à contre-balancer cette hiérarchie: il s'agit d'un *service* à la personne qui a fait le travail. C'est à elle de prendre le pouvoir, en formulant la question initiale.
 
 K. Benammar écrit: 
 
