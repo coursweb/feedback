@@ -15,11 +15,12 @@ Exemple de séquence de 45 minutes :
 
 | Durée  | Format               |
 |:------ |:-------------------- |
-| 10 min | Présentation         |
+|  5 min | Présentation         |
 |  5 min | One-on-One 👫         |
 |  5 min | Affirmative Feedback 😊 |
 | 10 min | Perspectives 👁️       |
 | 10 min | Gossip 🗣️             |
+|  5 min | Tips and tricks ☝️ |
 |  5 min | Personal letter ✍️    |
 
 

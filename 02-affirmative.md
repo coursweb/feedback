@@ -4,7 +4,7 @@ title: Affirmative Feedback
 permalink: affirmative-feedback.html
 ---
 
-**⏱️ Durée:** 10 minutes maximum.
+⏰ **Durée: 10 minutes maximum**
 
 Dans ce format, on cherche à mettre en avant "ce qui a bien fonctionné".
 
@@ -33,6 +33,6 @@ K. Bennamar racontre une anecdote (à 20:30 min):
 
 > Deux équipes de sport reçoivent un coaching pendant une soirée. L'une reçoit un feedback entièrement positif (*"ça c'était bien, continuez ceci..."*), l'autre un feedback entièrement négatif (*"ceci n'est pas correct, faites-le différemment..."*). Résultat, à la fin de la soirée: celle ayant reçu le feedback positif a fait plus de progrès, plus rapidement.
 
-## En vidéo:
+## 📺 En vidéo
 
 <iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube-nocookie.com/embed/RtJ-lAeKFGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

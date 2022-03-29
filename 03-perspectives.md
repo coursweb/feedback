@@ -4,7 +4,7 @@ title: Perspectives Feedback
 permalink: perspectives-feedback.html
 ---
 
-**⏱️ Durée:** 10 minutes.
+⏰ **Durée: 10 min**
 
 Les participants donnent des retours sur le modèle: *«moi, en tant que …, j'ai besoin que…»* - on peut incarner qui on veut. L’objectif est d’avoir une multiplicité des points de vue.
 
@@ -16,6 +16,6 @@ Selon K. Bennamar :
 
 On peut même adopter une position imaginaire. "en tant qu'extra-terrestre", "en tant que chien" – cela peut paraître bizarre, mais ça fonctionne, cela amène un élément disruptif. Aussi longtemps que ce feedback exprime un besoin que vous ressentez, cela fonctionnera.
 
-## En vidéo:
+## 📺 En vidéo
 
 <iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube-nocookie.com/embed/dCqPsmd5beg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

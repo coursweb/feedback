@@ -6,7 +6,7 @@ permalink: audience-pair-venting.html
 
 # Audience Pair Venting / One on One
 
-**⏱️ Durée:** 5 à 10 minutes.
+⏰ **Durée: 5 à 10 min**
 
 Après la présentation de l'œuvre, on laisse un moment de transition, de quelques minutes, pendant lesquelles la personne qui présente sort de la salle. Elle peut aller prendre un café, respirer de l'air frais, avant la séance de feedback.
 
@@ -18,6 +18,6 @@ Selon K. Bennamar:
 
 Après cette "ventilation des émotions", les participants sont prêts pour passer à une formulation structurée, plus réfléchie.
 
-## En vidéo:
+## 📺 En vidéo
 
 <iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube-nocookie.com/embed/EOrw02a6FT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

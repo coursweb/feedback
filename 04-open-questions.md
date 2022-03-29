@@ -6,7 +6,7 @@ permalink: open-questions.html
 
 # Questions ouvertes
 
-⏱️ Durée: 10 min
+⏰ **Durée: 10 min**
 
 Une question fermée peut être répondue par “oui” ou par “non”. Les questions fermées orientent la réponse dans une direction donnée: “est-ce que son refus vous a vraiment énervé?” Les questions ouvertes vous donnent autant d’espace que possible. 
 
@@ -18,7 +18,7 @@ Commencez une question ouverte par “pourquoi”, “comment”, “qui”, “
 
 Les questions ouvertes peuvent paraître simples, mais elles sont extrêmement puissantes. Elles laissent de la place à la pensée divergente, et sont en ce sens plus pertinentes pour des premières idées ou des travaux en cours que pour des travaux terminés.
 
-## En vidéo
+## 📺 En vidéo
 
 <iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube-nocookie.com/embed/Kh6zKi_vRt8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
