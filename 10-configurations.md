@@ -31,25 +31,25 @@ Deux possibilités:
 - Diviser la classe en 4 petits groupes de 4 élèves, qui font une séquence de 45 minutes.
 - Diviser la classe en 2 grands groupes de 8 élèves. Chaque groupe fait deux sessions courtes de 20 minutes, consécutives.
 
-Exemple de séquence de 20 minutes:
+Exemple de séquence de 20 minutes (les "indispensables"):
 
 | Durée  | Format               |
 |:------ |:-------------------- |
 |  5 min | Présentation |
 |  5 min | Affirmative feedback |
 |  5 min | Perspectives |
-|  5 min | Personal letter         |
+|  5 min | Personal letter      |
 
-Autre exemple (approche de questionnement):
+Autre exemple (option "questionnement"):
 
 | Durée  | Format               |
 |:------ |:-------------------- |
 |  5 min | Présentation |
 |  5 min | Perspectives |
-|  5 min | Questions ouvertes |
-|  5 min | Gossip         |
+|  5 min | Gossip |
+|  5 min | Personal letter   |
 
-Autre exemple (approche de soutien):
+Autre exemple (option "soutien"):
 
 | Durée  | Format               |
 |:------ |:-------------------- |
