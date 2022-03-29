@@ -15,8 +15,8 @@ Commencez une question ouverte par “pourquoi”, “comment”, “qui”, “
 Par exemple: 
 
 - “Qu’avez-vous fait?”
-- “Pourquoi avez-vous utilisé cet effet?”
-- “Comment vous êtes-vous senti·e?” 
+- “**Pourquoi** avez-vous utilisé cet effet?”
+- “**Comment** vous êtes-vous senti·e?” 
 
 Les questions ouvertes peuvent paraître simples, mais elles sont extrêmement puissantes. Elles laissent de la place à la **pensée divergente**, et sont en ce sens plus pertinentes pour des premières idées ou des travaux en cours que pour des travaux terminés.
 
