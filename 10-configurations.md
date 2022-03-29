@@ -24,7 +24,6 @@ Exemple de séquence de 45 minutes :
 |  5 min | Personal letter ✍️    |
 
 
-
 ## Séance pour 4 élèves qui présentent
 
 Deux possibilités:
@@ -32,7 +31,10 @@ Deux possibilités:
 - **4x4** : Diviser la classe en 4 groupes de 4 élèves, qui font une séquence complète de 45 minutes.
 - **2x8** : Diviser la classe en 2 groupes de 8 élèves. Chaque groupe fait deux sessions courtes de 20 minutes, consécutives.
 
-Exemple de séquence de 20 minutes (les "indispensables"):
+Exemples de séquence de 20 minutes 
+
+
+### "Les indispensables"
 
 | Durée  | Format               |
 |:------ |:-------------------- |
@@ -42,7 +44,7 @@ Exemple de séquence de 20 minutes (les "indispensables"):
 |  5 min | Perspectives 👁️ |
 |  5 min | Personal letter ✍️  |
 
-Autre exemple (option "questionnement" 🤔):
+### option "questionnement" 🤔
 
 | Durée  | Format               |
 |:------ |:-------------------- |
@@ -52,7 +54,7 @@ Autre exemple (option "questionnement" 🤔):
 |  5 min | Gossip 🗣️ |
 |  5 min | Personal letter ✍️ |
 
-Autre exemple (option "soutien" 😊):
+### option "soutien" 😊
 
 | Durée  | Format               |
 |:------ |:-------------------- |
@@ -64,8 +66,8 @@ Autre exemple (option "soutien" 😊):
 
 ## Séance pour 8 élèves qui présentent
 
-Une variante très concentrée, pour un maximum de présentations. La classe doit être familière des formats utilisés, pour tenir le *timing*.
+Une variante très concentrée, pour un maximum de présentations. La classe doit bien maîtriser les formats utilisés, pour tenir le *timing*!
 
 - Diviser la classe en 4 groupes de 4 élèves. Chaque groupe fait deux sessions courtes de 20 minutes. Cela permet à 8 élèves de présenter leur travail en 45 min.
-- Si on ajoute une 2<sup>e</sup> période de 45 minutes, **tous les 16 élèves** auront pu présenter leur travail, en l'espace de 90 minutes.
+- Si on ajoute une 2<sup>e</sup> période de 45 minutes, **16 élèves** pourront présenter leur travail, en l'espace de 90 minutes.
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gossip
+title: Gossip 🗣️
 permalink: gossip.html
 ---
 

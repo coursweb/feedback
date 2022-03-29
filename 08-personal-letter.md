@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personal Letter
+title: Personal Letter ✍️
 permalink: personal-letter.html
 ---
 
