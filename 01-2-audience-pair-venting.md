@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Tête-à-tête
-permalink: audience-pair-venting.html
+permalink: tete-a-tete.html
 ---
 
-# Tête-à-tête (Audience Pair Venting / One-on-One)
+# Tête-à-tête (One-on-One)
 
 ⏰ **Durée: 5 à 10 min**
 

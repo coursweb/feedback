@@ -20,7 +20,7 @@ Exemple de séquence de 45 minutes :
 |  5 min | Affirmative Feedback 😊 |
 | 10 min | Perspectives 👁️       |
 | 10 min | Gossip 🗣️             |
-|  5 min | Tips and tricks ☝️ |
+|  5 min | Trucs et astuces  ☝️ |
 |  5 min | Personal letter ✍️    |
 
 
@@ -61,7 +61,7 @@ Exemples de séquence de 20 minutes
 |  3 min | Présentation         |
 |  2 min | Tête-à-tête 👫 |
 |  5 min | Affirmative feedback 😊 |
-|  5 min | Tips and tricks ☝️ |
+|  5 min | Trucs et astuces  ☝️ |
 |  5 min | Personal letter ✍️ |
 
 ## Séance pour 8 élèves qui présentent 👫👫👭👬

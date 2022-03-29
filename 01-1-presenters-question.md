@@ -10,13 +10,13 @@ Au tout début de la séance de feedback, la personne qui présente son travail 
 
 En 3 minutes maximum, il s'agit de :
 
-Donner le contexte:
+**Donner le contexte:**
 
 - Quelle expérience allons-nous vivre pendant votre présentation? 
 - Est-ce un projet terminé, en cours, ou une simple idée? 
 - Quelle partie du projet allons-nous regarder ou recevoir? 
 
-Préciser sur quoi le feedback devra porter, pour être aussi utile que possible:
+Préciser **sur quoi le feedback devra porter**, pour être aussi utile que possible:
 
 - Quelles sont les questions qui vous travaillent à ce stade? 
 - Sur quoi aimeriez-vous obtenir un feedback? 

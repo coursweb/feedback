@@ -32,12 +32,12 @@ Sur son site web dédié à la méthode, K. Benammar décrit huit “Feedback fo
 
 |:------------------- |:---- | |:---- |
 | 1. | [The Presenter's Question](presenters-question.html)  | 3 minutes |
-| 1. | [Audience Pair Venting](audience-pair-venting.html) (One-on-One)  | 5 minutes |
+| 1. | [Audience Pair Venting](tete-a-tete.html) (One-on-One)  | 5 minutes |
 | 2. | [Affirmative feedback](affirmative-feedback.html)  | |
 | 3. | [Perspectives feedback](perspectives-feedback.html)  | 10 minutes |
 | 4. | [Open Questions](open-questions.html)  | 10 à 20 minutes |
 | 5. | [Concept Reflection](concept-reflection.html)  | 10 à 20 minutes |
 | 6. | [Gossip](gossip.html) | 10 minutes |
-| 7. | [Tips and tricks](tips-and-tricks)  | |
+| 7. | [Tips and tricks](tips-and-tricks.html)  | |
 | 8. | [Personal letter](personal-letter.html) | 5 minutes |
 

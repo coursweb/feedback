@@ -27,7 +27,7 @@ Les formats "Concept Reflection" ou "Open Questions" remplissent une fonction si
 | 10 min | Affirmative feedback       |
 | 10 min | Perspectives feedback      |
 | 10 min | Gossip (or Open Questions) |
-|  5 min | Tips & tricks              |
+|  5 min | Trucs et astuces           |
 |  5 min | Personal letter            |
 
 ## Un set-up de 90 minutes:
@@ -41,7 +41,7 @@ Les formats "Concept Reflection" ou "Open Questions" remplissent une fonction si
 | 10 min | Perspectives feedback      |
 | 20 min | Concept Reflection (or Open Questions) |
 | 10 min | Gossip                     |
-| 10 min | Tips & tricks              |
+| 10 min | Trucs et astuces           |
 | 10 min | Personal letter            |
 
 Dans le film "A Film About Feedback", il est indiqué que **90 minutes** est le "format de session classique", à GosArts et à Göteborg.

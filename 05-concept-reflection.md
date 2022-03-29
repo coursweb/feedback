@@ -40,7 +40,7 @@ Prochaine étape: on va choisir 2 ou 3 concepts, et l'auteur essayer de les int�
 
 C'est le/la facilitatrice qui va choisir un concept, et va pousser l'auteur à l'intégrer, d'une manière qui fait sens.
 
-Si cela paraît difficile, on va demander à la personne qui a proposé le concept à venir *aider* l'auteur, en lui donnant des "hints" (indices). C'est un moment délicat: il ne faut pas expliquer "voilà ce que je pensais". Il faut pousser l'auteur à deviner, à imaginer ses propres liens.
+Si cela paraît difficile, on va demander à la personne qui a proposé le concept à venir *aider* l'auteur, en lui donnant des indices (*hints*). C'est un moment délicat: il ne faut pas expliquer "voilà ce que je pensais". Il faut pousser l'auteur à deviner, à imaginer ses propres liens.
 
 La facilitatrice veille à limiter le temps à 3-4 minutes pour chaque concept.
 
