@@ -17,10 +17,10 @@ Exemple de séquence de 45 minutes :
 |:------ |:-------------------- |
 | 10 min | Présentation         |
 |  5 min | One-on-One           |
-|  5 min | Affirmative Feedback |
-| 10 min | Perspectives         |
-| 10 min | Gossip               |
-|  5 min | Personal letter      |
+|  5 min | Affirmative Feedback 😊 |
+| 10 min | Perspectives 🔭       |
+| 10 min | Gossip 🗣️             |
+|  5 min | Personal letter ✍️    |
 
 
 
@@ -36,11 +36,11 @@ Exemple de séquence de 20 minutes (les "indispensables"):
 | Durée  | Format               |
 |:------ |:-------------------- |
 |  5 min | Présentation |
-|  5 min | Affirmative feedback |
-|  5 min | Perspectives |
-|  5 min | Personal letter      |
+|  5 min | Affirmative feedback 😊 |
+|  5 min | Perspectives 🔭 |
+|  5 min | Personal letter ✍️  |
 
-Autre exemple (option "questionnement"):
+Autre exemple (option "questionnement" 🤔):
 
 | Durée  | Format               |
 |:------ |:-------------------- |
@@ -49,7 +49,7 @@ Autre exemple (option "questionnement"):
 |  5 min | Gossip |
 |  5 min | Personal letter   |
 
-Autre exemple (option "soutien"):
+Autre exemple (option "soutien" 😊):
 
 | Durée  | Format               |
 |:------ |:-------------------- |
