@@ -6,43 +6,45 @@ permalink: concept-reflection.html
 
 # Format: Réflexion conceptuelle
 
+⏰ **Durée: 15 à 20 min**
+
 C'est le plus complexe des formats de feedback. Le facilitateur jouera un rôle plus actif. 
 
-En proposant des concepts, on essaie d'ouvrir l’espace réflexif de la personne qui présente et de créer des associations d'idées.
+En proposant des concepts, on essaie d'ouvrir l’espace réflexif de la personne qui présente et de provoquer des associations d'idées.
 
 ## Déroulement
 
-Sur un "whiteboard", la personne écrit au centre son "concept central" (sous forme de question, ou le titre...).
+Sur un *whiteboard*, la personne inscrit au centre son "concept central" (sous forme de question, ou le titre...).
 
 ### Production de concepts par les participants
 
-Chaque participant imagine des concepts qui sont liés au travail présenté, en ajoutant une dimension. 
+Chaque participant imagine des **concepts** qui sont **liés au travail présenté**, en ajoutant une dimension.
 
-Vous avez une idée, quel est le concept qui la décrit?
+Vous avez une idée – quel est le concept qui la décrit?
 
 Pensez à un concept qui est lié au travail, une association d'idées. Cela peut être abstrait, comme "jalousie", "vengeance", "violence", "soleil"... Un concept suffisamment ouvert pour amorcer son processus de réflexion. 
 
-Souvent c'est un seul mot, ça pourrait aussi être une expression, ou une phrase.
+Souvent, c'est un seul mot. Ça pourrait aussi être une expression, ou une phrase.
 
-Chaque personne devrait produire 1 ou 2 post-its. Après quelques minutes, on aura donc 10, 15, 20 post-its au total.
+Chaque personne devrait **produire 1 à 2 post-its**. Après quelques minutes, on aura donc environ 10 à 20 post-its.
 
 ### Réorganisation des post-its
 
-La personne qui reçoit le feedback va grouper les post-its autour de son concept central. Celles qui sont en lien direct seront proches. Celles qui sont éloignées, doivent être plus éloignées. Si le concept n'a aucun lien, elles seront tout au bord de la feuille.
+La personne qui reçoit le feedback va **organiser les post-its autour de son concept central**. Celles qui sont en lien direct seront proches. Celles qui sont éloignées, doivent être plus éloignées. Si le concept n'a aucun lien, elles seront tout au bord du tableau.
 
-Tout en faisant cela, la personne lit les concepts, et formule ses réflexions à voix haute.
+Tout en faisant cela, la personne lit les concepts, et formule ses réflexions **à voix haute**.
 
-Cela produit une "carte des concepts", qui représente les associations liées au travail, du point de vue de l'auteur, et du public.
+Cette activité génère une "**carte des concepts**", qui représente les associations d'idées liées à l'œuvre, du point de vue de l'auteur, et du public.
 
 ### Intégration des concepts
 
-Prochaine étape: on va choisir 2 ou 3 concepts, et l'auteur essayer de les intégrer au travail. L'auteur doit essayer d'inclure ces associations (en trouvant un lien, un rapport), et donc d'étendre sa vision de son travail (*expand their idea about their own work*). 
+Prochaine étape: on va **choisir 2 - 3 concepts**, et l'auteur essaye de les *intégrer* au travail. L'auteur doit essayer d'inclure ces associations (en trouvant un lien, un rapport), et donc d'étendre sa vision de son travail (*expand their idea about their own work*). 
 
-C'est le/la facilitatrice qui va choisir un concept, et va pousser l'auteur à l'intégrer, d'une manière qui fait sens.
+C'est la facilitatrice qui va choisir un concept, et va conduire l'auteur à l'intégrer, d'une manière qui fait sens.
 
-Si cela paraît difficile, on va demander à la personne qui a proposé le concept à venir *aider* l'auteur, en lui donnant des indices (*hints*). C'est un moment délicat: il ne faut pas expliquer "voilà ce que je pensais". Il faut pousser l'auteur à deviner, à imaginer ses propres liens.
+Si cela paraît difficile, on va demander à la personne qui a proposé le concept à *aider* l'auteur, en lui donnant des indices (*hints*). C'est un moment délicat: il ne faut pas expliquer "voilà ce que je pensais". Il faut pousser l'auteur à deviner, à imaginer ses propres liens.
 
-La facilitatrice veille à limiter le temps à 3-4 minutes pour chaque concept.
+La facilitatrice veille à limiter le temps à **3-4 minutes pour chaque concept**.
 
 La durée totale est 15 à 20 minutes.
 

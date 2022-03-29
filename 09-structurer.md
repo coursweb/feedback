@@ -44,4 +44,4 @@ Les formats "Concept Reflection" ou "Open Questions" remplissent une fonction si
 | 10 min | Trucs et astuces ☝️         |
 | 10 min | Personal letter  ✍️         |
 
-Dans le film "A Film About Feedback", il est indiqué que **90 minutes** est le "format de session classique", à GosArts et à Göteborg.
+Dans le documentaire "*A Film About Feedback*", il est indiqué que **90 minutes** constituent le "format de session classique", à GosArts et à Göteborg.

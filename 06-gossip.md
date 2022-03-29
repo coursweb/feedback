@@ -4,7 +4,7 @@ title: Gossip 🗣️
 permalink: gossip.html
 ---
 
-⏰ **Durée:** 10 minutes.
+⏰ **Durée: 10 min**
 
 Observations formulées à la troisième personne. On discute le problème, le travail, comme si la personne était absente, à la 3e personne (elle reste dans la pièce et écoute, dos tourné).
 

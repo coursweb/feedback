@@ -4,7 +4,7 @@ title: Personal Letter ✍️
 permalink: personal-letter.html
 ---
 
-⏰ **Durée: 5 min**
+⏰ **Durée: 5 à 10 min**
 
 Il est très utile de conclure une séance de feedbacks par cette activité.
 

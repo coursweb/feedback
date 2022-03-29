@@ -4,6 +4,8 @@ title: Trucs et astuces ☝️
 permalink: tips-and-tricks.html
 ---
 
+⏰ **Durée: 5 à 10 min**
+
 Les **trucs et astuces** ☝️ sont des conseils pratiques (et brefs) qui aideront la personne qui présente. Il peut s'agir de conseils techniques, d'idées, de recommandations de lecture ou de références à d'autres artistes. 
 
 Exemples:
