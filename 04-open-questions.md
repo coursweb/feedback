@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Questions
+title: Open Questions ❓
 permalink: open-questions.html
 ---
 
@@ -8,15 +8,17 @@ permalink: open-questions.html
 
 ⏰ **Durée: 10 min**
 
-Une question fermée peut être répondue par “oui” ou par “non”. Les questions fermées orientent la réponse dans une direction donnée: “est-ce que son refus vous a vraiment énervé?” Les questions ouvertes vous donnent autant d’espace que possible. 
+Une question fermée peut être répondue par “oui” ou par “non”. Les questions fermées orientent la réponse dans une direction donnée: “est-ce que son refus vous a vraiment énervé?” Les **questions ouvertes** vous donnent autant d’espace que possible. 
 
-Commencez une question ouverte par “pourquoi”, “comment”, “qui”, “quand”, “quoi”. Par exemple: 
+Commencez une question ouverte par “pourquoi”, “comment”, “qui”, “quand”, “quoi”.
+
+Par exemple: 
 
 - “Qu’avez-vous fait?”
 - “Pourquoi avez-vous utilisé cet effet?”
 - “Comment vous êtes-vous senti·e?” 
 
-Les questions ouvertes peuvent paraître simples, mais elles sont extrêmement puissantes. Elles laissent de la place à la pensée divergente, et sont en ce sens plus pertinentes pour des premières idées ou des travaux en cours que pour des travaux terminés.
+Les questions ouvertes peuvent paraître simples, mais elles sont extrêmement puissantes. Elles laissent de la place à la **pensée divergente**, et sont en ce sens plus pertinentes pour des premières idées ou des travaux en cours que pour des travaux terminés.
 
 ## 📺 En vidéo
 
@@ -32,6 +34,6 @@ C’est un format de 15 minutes, dont **3 minutes chrono de questions rapides**,
 
 Cela fonctionne un peu comme un brainstorming: on confronte l'idée à un nombre maximum de questionnements, pour ouvrir autant de nouvelles perspectives.
 
-Le format se déroule sur 45 minutes, ce qui permet trois sessions de 15 minutes. On forme des petits groupes de 3 élèves, chacun présente à tour de rôle.
+L'activité se déroule sur 45 minutes, ce qui permet **trois sessions** de 15 minutes. On forme des petits groupes de 3 élèves, chacun présente à tour de rôle.
 
 ---

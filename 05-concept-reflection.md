@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Concept Reflection
+title: Concept Reflection 🧠
 permalink: concept-reflection.html
 ---
 

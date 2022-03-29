@@ -23,7 +23,7 @@ Les formats "Concept Reflection" ou "Open Questions" remplissent une fonction si
 |:------ |:-------------------- |
 |  5 min | Presenter’s Question   |
 | 10 min | Performance                |
-|  5 min | Audience Pair Venting 👫   |
+|  5 min | Tête-à-tête 👫   |
 | 10 min | Affirmative feedback       |
 | 10 min | Perspectives feedback      |
 | 10 min | Gossip (or Open Questions) |
@@ -36,7 +36,7 @@ Les formats "Concept Reflection" ou "Open Questions" remplissent une fonction si
 |:------ |:-------------------- |
 |  5 min | Presenter’s Question   |
 | 10 min | Performance                |
-|  5 min | Audience Pair Venting 👫   |
+|  5 min | Tête-à-tête 👫   |
 | 10 min | Affirmative feedback       |
 | 10 min | Perspectives feedback      |
 | 20 min | Concept Reflection (or Open Questions) |

@@ -7,7 +7,7 @@ permalink: configurations.html
 Quelques configurations possibles, pour un groupe de 16 élèves.  
 **Durée:** une période d'enseignement de 45 minutes.
 
-## Séance pour 2 élèves qui présentent
+## Séance pour 2 élèves qui présentent 👫
 
 On divise la classe en **deux groupes de 8 élèves**. Chaque groupe effectue une session complète, dans laquelle 4 à 5 formats peuvent être choisis. Les formats sont choisis par les personnes qui présentent en accord avec les enseignant-es.
 
@@ -16,7 +16,7 @@ Exemple de séquence de 45 minutes :
 | Durée  | Format               |
 |:------ |:-------------------- |
 |  5 min | Présentation         |
-|  5 min | One-on-One 👫         |
+|  5 min | Tête-à-tête 👫         |
 |  5 min | Affirmative Feedback 😊 |
 | 10 min | Perspectives 👁️       |
 | 10 min | Gossip 🗣️             |
@@ -24,7 +24,7 @@ Exemple de séquence de 45 minutes :
 |  5 min | Personal letter ✍️    |
 
 
-## Séance pour 4 élèves qui présentent
+## Séance pour 4 élèves qui présentent 👫👫
 
 Deux possibilités:
 
@@ -39,7 +39,7 @@ Exemples de séquence de 20 minutes
 | Durée  | Format               |
 |:------ |:-------------------- |
 |  3 min | Présentation |
-|  2 min | One-on-One 👫 |
+|  2 min | Tête-à-tête 👫 |
 |  5 min | Affirmative feedback 😊 |
 |  5 min | Perspectives 👁️ |
 |  5 min | Personal letter ✍️  |
@@ -49,7 +49,7 @@ Exemples de séquence de 20 minutes
 | Durée  | Format               |
 |:------ |:-------------------- |
 |  3 min | Présentation |
-|  2 min | One-on-One 👫 |
+|  2 min | Tête-à-tête 👫 |
 |  5 min | Perspectives 👁️ |
 |  5 min | Gossip 🗣️ |
 |  5 min | Personal letter ✍️ |
@@ -59,12 +59,12 @@ Exemples de séquence de 20 minutes
 | Durée  | Format               |
 |:------ |:-------------------- |
 |  3 min | Présentation         |
-|  2 min | One-on-One 👫 |
+|  2 min | Tête-à-tête 👫 |
 |  5 min | Affirmative feedback 😊 |
 |  5 min | Tips and tricks ☝️ |
 |  5 min | Personal letter ✍️ |
 
-## Séance pour 8 élèves qui présentent
+## Séance pour 8 élèves qui présentent 👫👫👭👬
 
 Une variante très concentrée, pour un maximum de présentations. La classe doit bien maîtriser les formats utilisés, pour tenir le *timing*!
 
