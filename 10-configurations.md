@@ -17,7 +17,7 @@ Exemple de séquence de 45 minutes :
 |:------ |:-------------------- |
 |  5 min | Présentation         |
 |  5 min | Tête-à-tête 👫         |
-|  5 min | Affirmative Feedback 😊 |
+|  5 min | Affirmative Feedback ✅ |
 | 10 min | Perspectives 👁️       |
 | 10 min | Gossip 🗣️             |
 |  5 min | Trucs et astuces  ☝️ |
@@ -40,7 +40,7 @@ Exemples de séquence de 20 minutes
 |:------ |:-------------------- |
 |  3 min | Présentation |
 |  2 min | Tête-à-tête 👫 |
-|  5 min | Affirmative feedback 😊 |
+|  5 min | Affirmative feedback ✅ |
 |  5 min | Perspectives 👁️ |
 |  5 min | Personal letter ✍️  |
 
@@ -60,7 +60,7 @@ Exemples de séquence de 20 minutes
 |:------ |:-------------------- |
 |  3 min | Présentation         |
 |  2 min | Tête-à-tête 👫 |
-|  5 min | Affirmative feedback 😊 |
+|  5 min | Affirmative feedback ✅ |
 |  5 min | Trucs et astuces  ☝️ |
 |  5 min | Personal letter ✍️ |
 
@@ -69,5 +69,5 @@ Exemples de séquence de 20 minutes
 Une variante très concentrée, pour un maximum de présentations. La classe doit bien maîtriser les formats utilisés, pour tenir le *timing*!
 
 - Diviser la classe en 4 groupes de 4 élèves. Chaque groupe fait deux sessions courtes de 20 minutes. Cela permet à 8 élèves de présenter leur travail en 45 min.
-- Si on ajoute une 2<sup>e</sup> période de 45 minutes, **16 élèves** pourront présenter leur travail, en l'espace de 90 minutes.
+- Si on ajoute une 2<sup>e</sup> période de 45 minutes, **16 élèves** pourront présenter leur travail, en l'espace de 90 minutes. 👫👬👫👫👭👫👭👬
 

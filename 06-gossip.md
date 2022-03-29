@@ -28,6 +28,6 @@ Il ne faut pas oublier qu'on essaie de donner un feedback *utile*. On ne juge pa
 
 ## Variante: utilisation en école
 
-Ce format peut être utilisé de manière ciblée durant un projet en école, “quand des élèves sont coincés”. Par exemple durant un travail personnel (TPI, TPA, travail de diplôme), pour des personnes bloquées dans leur projet. 
+Ce format peut être utilisé de manière ciblée durant un projet en école, “quand des élèves sont coincés”. Par exemple durant un travail personnel de grande envergure (TPI, TPA, travail de diplôme), pour des élèves bloqués dans leur projet. 
 
 On forme alors un petit groupe, 4-5 personnes pour 1 élève, et on fait une session “Gossip”.
