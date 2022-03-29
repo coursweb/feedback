@@ -4,7 +4,7 @@ title: Perspectives Feedback
 permalink: perspectives-feedback.html
 ---
 
-**Durée:** 10 minutes.
+**⏱️ Durée:** 10 minutes.
 
 Les participants donnent des retours sur le modèle: *«moi, en tant que …, j'ai besoin que…»* - on peut incarner qui on veut. L’objectif est d’avoir une multiplicité des points de vue.
 

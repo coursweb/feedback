@@ -4,7 +4,7 @@ title: Gossip
 permalink: gossip.html
 ---
 
-**Durée:** 10 minutes.
+⏱️ **Durée:** 10 minutes.
 
 Observations formulées à la troisième personne. On discute le problème, le travail, comme si la personne était absente, à la 3e personne (elle reste dans la pièce et écoute, dos tourné).
 
@@ -21,7 +21,7 @@ Le résultat de cette situation artificielle est que le feedback est moins perso
 
 Il ne faut pas oublier qu'on essaie de donner un feedback *utile*. On ne juge pas, on essaie d'aider la personne, sans méchanceté et sans flatterie.
 
-## En vidéo:
+## En vidéo 📺
 
 <iframe width="100%" style="aspect-ratio: 16 / 9;"  src="https://www.youtube-nocookie.com/embed/DkBMXdn3WE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ----

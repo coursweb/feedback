@@ -6,7 +6,7 @@ permalink: open-questions.html
 
 # Questions ouvertes
 
-Durée: 10 min
+⏱️ Durée: 10 min
 
 Une question fermée peut être répondue par “oui” ou par “non”. Les questions fermées orientent la réponse dans une direction donnée: “est-ce que son refus vous a vraiment énervé?” Les questions ouvertes vous donnent autant d’espace que possible. 
 

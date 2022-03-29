@@ -4,7 +4,7 @@ title: The Presenters Question
 permalink: presenters-question.html
 ---
 
-**Durée:** pas plus de 3 minutes.
+**⏱️ Durée:** pas plus de 3 minutes.
 
 Au tout début de la séance de feedback, la personne qui présente son travail prend la parole. 
 

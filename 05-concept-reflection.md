@@ -49,7 +49,7 @@ La durée totale est 15 à 20 minutes.
 Habituellement: on prend d'abord un concept qui est proche, puis un concept plus éloigné, puis un concept vraiment difficile, très à l'écart. "Pourquoi ne pas essayer celui-ci?".
 
 
-## En vidéo
+## En vidéo 📺
 
 <iframe width="100%" style="aspect-ratio: 16 / 9;" src="https://www.youtube-nocookie.com/embed/wkYt8cibkII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

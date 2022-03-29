@@ -4,7 +4,7 @@ title: Affirmative Feedback
 permalink: affirmative-feedback.html
 ---
 
-**Durée:** 10 minutes maximum.
+**⏱️ Durée:** 10 minutes maximum.
 
 Dans ce format, on cherche à mettre en avant "ce qui a bien fonctionné".
 

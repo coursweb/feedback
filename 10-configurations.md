@@ -16,9 +16,9 @@ Exemple de séquence de 45 minutes :
 | Durée  | Format               |
 |:------ |:-------------------- |
 | 10 min | Présentation         |
-|  5 min | One-on-One           |
+|  5 min | One-on-One 👫         |
 |  5 min | Affirmative Feedback 😊 |
-| 10 min | Perspectives 🔭       |
+| 10 min | Perspectives 👁️       |
 | 10 min | Gossip 🗣️             |
 |  5 min | Personal letter ✍️    |
 
@@ -35,28 +35,31 @@ Exemple de séquence de 20 minutes (les "indispensables"):
 
 | Durée  | Format               |
 |:------ |:-------------------- |
-|  5 min | Présentation |
+|  3 min | Présentation |
+|  2 min | One-on-One 👫 |
 |  5 min | Affirmative feedback 😊 |
-|  5 min | Perspectives 🔭 |
+|  5 min | Perspectives 👁️ |
 |  5 min | Personal letter ✍️  |
 
 Autre exemple (option "questionnement" 🤔):
 
 | Durée  | Format               |
 |:------ |:-------------------- |
-|  5 min | Présentation |
-|  5 min | Perspectives |
-|  5 min | Gossip |
-|  5 min | Personal letter   |
+|  3 min | Présentation |
+|  2 min | One-on-One 👫 |
+|  5 min | Perspectives 👁️ |
+|  5 min | Gossip 🗣️ |
+|  5 min | Personal letter ✍️ |
 
 Autre exemple (option "soutien" 😊):
 
 | Durée  | Format               |
 |:------ |:-------------------- |
-|  5 min | Présentation         |
-|  5 min | Affirmative feedback |
-|  5 min | Tips and tricks      |
-|  5 min | Personal letter      |
+|  3 min | Présentation         |
+|  2 min | One-on-One 👫 |
+|  5 min | Affirmative feedback 😊 |
+|  5 min | Tips and tricks ☝️ |
+|  5 min | Personal letter ✍️ |
 
 ## Séance pour 8 élèves qui présentent
 
