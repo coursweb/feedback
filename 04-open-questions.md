@@ -14,7 +14,7 @@ Commencez une question ouverte par “pourquoi”, “comment”, “qui”, “
 
 Par exemple: 
 
-- “Qu’avez-vous fait?”
+- “**Qu’**avez-vous fait?”
 - “**Pourquoi** avez-vous utilisé cet effet?”
 - “**Comment** vous êtes-vous senti·e?” 
 
