@@ -4,7 +4,7 @@ Ce site rassemble quelques documents sur des **méthodes de feedback**. Il s'agi
 
 Ces pages sont une adaptation du support de Karim Benammar, [mis à disposition sur son site](https://philosophy.teachable.com/p/learning-from-feedback) (sous licence *Creative Commons attribution*).
 
-La méthode a fait l'objet dun film documentaire, *[A Film About Feedback](https://vimeo.com/97319636)* (Jack Faber, 2013).
+La méthode a fait l'objet d'un film documentaire, *[A Film About Feedback](https://vimeo.com/97319636)* (Jack Faber, 2013).
 
 Ce site comporte quelques variantes de formats proposées par [David Gagnebin-de Bons](https://davidg.ch/).
 
