@@ -15,7 +15,7 @@ Selon K. Bennamar :
 ## Dispositif
 
 - On parle de la personne qui a présenté à la troisième personne.
-- La personne faisant l'object du feedback est assise et *tourne le dos* au groupe. Il n'y a pas de contact visuel. La personne prend des notes.
+- La personne faisant l'objet du feedback est assise et *tourne le dos* au groupe. Il n'y a pas de contact visuel. La personne prend des notes.
 
 Le résultat de cette situation artificielle est que le feedback est moins personnel: pas de contact direct, pas de nécessité de répondre.
 

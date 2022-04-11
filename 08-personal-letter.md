@@ -6,7 +6,7 @@ permalink: personal-letter.html
 
 ⏰ **Durée: 5 à 10 min**
 
-Il est très utile de conclure une séance de feedbacks par cette activité.
+Il est très utile de conclure une séance de feedback par cette activité.
 
 Pendant 5 minutes, chaque participant-e écrit une **lettre personnelle** ✍️ à l'attention de la personne qui vient de présenter. Le contenu de la lettre n’est pas partagé avec le reste du groupe.
 
@@ -19,8 +19,8 @@ Ce moment sert également de réflexion pour les personnes qui donnent leur av
 ## Points importants
 
 - La lettre ne doit pas être anonyme, mais son contenu reste confidentiel.
-- La personne lira les lettres "plus tard". Il y une disconnection temporelle, une distance, qui est positive.
 - La lettre est supposée aider, de manière très personnelle.
+- La personne lira les lettres "plus tard". Il y une distance temporelle qui est positive, car elle permet de recevoir le feedback avec plus de détachement.
 
 ## 📺 En vidéo
 

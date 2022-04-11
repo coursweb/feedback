@@ -30,7 +30,7 @@ Chaque personne devrait **produire 1 à 2 post-its**. Après quelques minutes, o
 
 ### Réorganisation des post-its
 
-La personne qui reçoit le feedback va **organiser les post-its autour de son concept central**. Celles qui sont en lien direct seront proches. Celles qui sont éloignées, doivent être plus éloignées. Si le concept n'a aucun lien, elles seront tout au bord du tableau.
+La personne qui reçoit le feedback va **organiser les post-its autour de son concept central**. Les termes qui sont en lien direct seront proches. Ceux qui sont éloignés, doivent être plus éloignés. Si le concept n'a aucun lien, il sera placé tout au bord du tableau.
 
 Tout en faisant cela, la personne **lit les concepts**, et formule ses réflexions **à voix haute**.
 
@@ -38,7 +38,7 @@ Cette activité génère une "**carte des concepts**", qui représente les assoc
 
 ### Intégration des concepts
 
-Prochaine étape: on va **choisir 2 - 3 concepts**, et l'auteur essaye de les *intégrer* au travail. L'auteur doit essayer d'expliquer les associations (en trouvant un lien, un rapport), et devra donc d'étendre sa vision de son travail (*expand their idea about their own work*). 
+Prochaine étape: on va **choisir 2 - 3 concepts**, et l'auteur essaye de les *intégrer* au travail. L'auteur doit essayer d'expliquer les associations (en trouvant un lien, un rapport), et devra donc étendre sa vision de son propre travail (*expand their idea about their own work*). 
 
 C'est la facilitatrice qui va choisir un concept, et va conduire l'auteur à l'intégrer, d'une manière qui fait sens.
 
