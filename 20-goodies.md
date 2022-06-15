@@ -19,7 +19,7 @@ Cela est utile pour:
 - Quand on prépare une session, en discussion avec la personne qui va présenter: permet de choisir les formats et de déterminer leur ordre.
 - Pendant une session, peut aider des participants qui "débutent" à se souvenir des formats.
 
-### Un Keynote d'introduction
+### Un Keynote d'introduction
 
 Un document Keynote pour introduire les formats de feedback
 
