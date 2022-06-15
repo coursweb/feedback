@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ressources
-permalink: ressources.html
+title: Goodies
+permalink: goodies.html
 ---
 
 ## Trucs à télécharger
