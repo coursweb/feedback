@@ -12,7 +12,7 @@ Des pages A4 avec des "cartes à découper" qui contiennent un court descriptif 
 
 ![](img/cartes-feedback.jpg)
 
-[Télécharger (PDF et modèle InDeisgn)](ressources/Cartes-Feedback.zip)
+[Télécharger (PDF et modèle InDesign)](ressources/Cartes-Feedback.zip)
 
 Cela est utile pour:
 
