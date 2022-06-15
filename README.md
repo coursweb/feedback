@@ -1,8 +1,10 @@
 # Méthodes de Feedback
 
-Ce site rassemble quelques documents sur des **méthodes de feedback**. Il s'agit d'un ensemble de "formats" développés au sein de DasArts (DAS Master of Theatre programme of the Amsterdam University of Arts) entre 2009 et 2011, par Karim Bennamar (philosophe), Georg Weinand (dramaturge) et Barbara Van Lindt (DasArts Managing Director).
+Ce site rassemble quelques documents sur des **méthodes de feedback**. 
 
-Ces pages sont une adaptation du support de Karim Benammar, [mis à disposition sur son site](https://philosophy.teachable.com/p/learning-from-feedback) (sous licence *Creative Commons attribution*).
+Il s'agit d'un ensemble de "formats" développés au sein de DasArts (DAS Master of Theatre programme of the Amsterdam University of Arts) entre 2009 et 2011, par Karim Bennamar (philosophe), Georg Weinand (dramaturge) et Barbara Van Lindt (DasArts Managing Director).
+
+Ces pages sont une adaptation / traduction du support de Karim Benammar, [mis à disposition sur son site](https://philosophy.teachable.com/p/learning-from-feedback) (sous licence *Creative Commons attribution*).
 
 La méthode a fait l'objet d'un film documentaire, *[A Film About Feedback](https://vimeo.com/97319636)* (Jack Faber, 2013).
 
