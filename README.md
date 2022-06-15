@@ -17,15 +17,13 @@ Les objectifs visés par cette méthode:
 - On évite que le feedback soit personnel.
 - On n'exige pas de réponse et justification immédiate de la part de la personne qui présente. Il ne s'agit pas de "défendre son travail".
 - Le feedback est un service offert à la personne qui présente.
-- Plus de structure et d'auto-discipline.
-- Plus de précision et plus de *fun*.
 
 Selon Siegmar Zacharias (citée dans le film), la critique est une "structure de pouvoir", où celui qui exerce la critique domine celui qui la reçoit. Les méthodes de feedback visent à renverser cette hiérarchie: il s'agit d'un *service* à la personne qui a fait le travail. C'est à elle de prendre le pouvoir, en formulant la question initiale.
 
 K. Benammar écrit: 
 
 > All too often, those giving feedback fall into judgment or giving advice, and those receiving feedback become overwhelmed and defensive: we find it hard not to take it personally. In an educational setting, feedback and evaluation are usually mixed up, which leads to serious issues of openness and trust.
-
+>
 > I have designed these feedback formats to break through our usual feedback patterns and to separate thinking from emotion. The formats are artificial on purpose, so that they force us to formulate feedback in a way which is helpful and enriching.
 
 ### Les formats
