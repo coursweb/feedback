@@ -2,6 +2,7 @@ remote_theme: coursweb/jk-theme
 title: Feedback
 description: Documentation sur les méthodes de feedback.
 lang: fr-FR
+robots: index, follow
 chapters:
  - title: Cours-web
    url: https://cours-web.ch/
