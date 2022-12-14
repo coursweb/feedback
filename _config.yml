@@ -1,6 +1,7 @@
 remote_theme: coursweb/jk-theme
 title: Feedback
 description: Documentation sur les méthodes de feedback.
+version: 1.3
 lang: fr-FR
 robots: index, follow
 chapters:
