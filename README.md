@@ -8,19 +8,19 @@ Ces pages sont une adaptation / traduction du support de Karim Benammar, [mis à
 
 La méthode a fait l'objet d'un film documentaire, *[A Film About Feedback](https://vimeo.com/97319636)* (Jack Faber, 2013).
 
-Ce site comporte quelques variantes de formats proposées par [David Gagnebin-de Bons](https://davidg.ch/).
+Ce site comporte quelques variantes de formats proposées par [David Gagnebin-de Bons](https://davidg.ch/), enseignant en photographie au CEPV et formateur en pédagogie à la HEFP.
 
 ## Les principes
 
-Les objectifs visés par cette méthode:
+Les principes fondamentaux de cette méthode:
 
 - On évite que le feedback soit personnel.
-- On n'exige pas de réponse et justification immédiate de la part de la personne qui présente. Il ne s'agit pas de "défendre son travail".
 - Le feedback est un service offert à la personne qui présente.
+- On n'exige pas de réponse et justification immédiate de la part de la personne qui présente. Il ne s'agit pas de "défendre son travail".
 
-Selon Siegmar Zacharias (citée dans le film), la critique est une "structure de pouvoir", où celui qui exerce la critique domine celui qui la reçoit. Les méthodes de feedback visent à renverser cette hiérarchie: il s'agit d'un *service* à la personne qui a fait le travail. C'est à elle de prendre le pouvoir, en formulant la question initiale.
+Selon Siegmar Zacharias (citée dans le film), la critique est une "structure de pouvoir", où la personne qui exerce la critique domine celle qui la reçoit. Les méthodes de feedback visent à renverser cette hiérarchie: il s'agit d'un *service* à la personne qui a fait le travail. C'est à elle de prendre le pouvoir, en formulant la question initiale.
 
-K. Benammar écrit: 
+K. Benammar écrit :
 
 > All too often, those giving feedback fall into judgment or giving advice, and those receiving feedback become overwhelmed and defensive: we find it hard not to take it personally. In an educational setting, feedback and evaluation are usually mixed up, which leads to serious issues of openness and trust.
 >
